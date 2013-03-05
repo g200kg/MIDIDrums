@@ -1,8 +1,8 @@
 # Shiny Happy MIDI Drum Machine with Web Audio API Polyfill
 Just Added WAAPISim.
 
-Try with Firefox/Opera or MSIE
-<http://g200kg.github.com/MIDIDrums/>
+Try with Firefox / Opera or MSIE  
+*<http://g200kg.github.com/MIDIDrums/>*
 
 
 ---
