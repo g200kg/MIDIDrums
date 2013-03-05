@@ -2,7 +2,7 @@
 Just Added WAAPISim.
 
 Try with Firefox / Opera or MSIE  
-*<http://g200kg.github.com/MIDIDrums/>*
+**<http://g200kg.github.com/MIDIDrums/>**
 
 
 ---
