@@ -4,6 +4,7 @@ Just Added WAAPISim.
 Try with Firefox / Opera or MSIE  
 **<http://g200kg.github.com/MIDIDrums/>**
 
+forked from <https://github.com/cwilso/MIDIDrums>  
 
 ---
 # Shiny Happy MIDI Drum Machine 
